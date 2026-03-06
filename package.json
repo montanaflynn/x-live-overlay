@@ -1,9 +1,9 @@
 {
   "name": "x-live-overlay",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Live stream stats overlay for X.com broadcasts — perfect for OBS",
   "bin": {
-    "x-live-overlay": "./index.js"
+    "x-live-overlay": "cli"
   },
   "type": "module",
   "license": "MIT",
@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/montanaflynn/x-live-overlay",
   "files": [
-    "index.js"
+    "cli"
   ],
   "engines": {
     "node": ">=18"
