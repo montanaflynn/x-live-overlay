@@ -1,5 +1,7 @@
 # x-live-overlay
 
+[![npm version](https://img.shields.io/npm/v/x-live-overlay)](https://www.npmjs.com/package/x-live-overlay) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 A live stream stats overlay for X.com broadcasts. Runs a local server that serves a transparent overlay page — designed to be used as an OBS browser source.
 
 Shows real-time stream stats:
