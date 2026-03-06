@@ -1,0 +1,31 @@
+{
+  "name": "x-live-overlay",
+  "version": "1.0.0",
+  "description": "Live stream stats overlay for X.com broadcasts — perfect for OBS",
+  "bin": {
+    "x-live-overlay": "./index.js"
+  },
+  "type": "module",
+  "license": "MIT",
+  "keywords": [
+    "x",
+    "twitter",
+    "live",
+    "stream",
+    "overlay",
+    "obs",
+    "broadcast",
+    "viewer-count"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/montanaflynn/x-live-overlay.git"
+  },
+  "homepage": "https://github.com/montanaflynn/x-live-overlay",
+  "files": [
+    "index.js"
+  ],
+  "engines": {
+    "node": ">=18"
+  }
+}
